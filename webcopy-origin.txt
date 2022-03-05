@@ -1,0 +1,884 @@
+Uri: https://nexdc.com.tr/
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\index.htm
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/assets/img/hero-1.jpg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\hero-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nexdc.com.tr/favicon.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\favicon.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/css/main.css
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\css\main.css
+Content Type: text/css
+
+Uri: https://nexdc.com.tr/turkiye-ssd-vds.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\turkiye-ssd-vds.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/turkiye-i9-ssd-vds.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\turkiye-i9-ssd-vds.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/dedicated-server.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\dedicated-server.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/fransa-ssd-vds.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\fransa-ssd-vds.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/almanya-ssd-vds.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\almanya-ssd-vds.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/sunucu-barindirma.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\sunucu-barindirma.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/ddos-korumali-gtav-sunucusu.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\ddos-korumali-gtav-sunucusu.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/discord-bot-sunucu.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\discord-bot-sunucu.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/ddos-korumali-samp-sunucusu.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\ddos-korumali-samp-sunucusu.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/ddos-korumali-mta-sunuculari.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\ddos-korumali-mta-sunuculari.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/ddos-korumali-valheim-sunucusu.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\ddos-korumali-valheim-sunucusu.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/ddos-korumali-teamspeak-sunuculari.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\ddos-korumali-teamspeak-sunuculari.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/sinusbot-muzik-botu-kirala.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\sinusbot-muzik-botu-kirala.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/ddos-korumali-rust-sunucusu.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\ddos-korumali-rust-sunucusu.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/ddos-korumali-arma-sunucusu.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\ddos-korumali-arma-sunucusu.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/ddos-korumali-minecraft-sunucusu.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\ddos-korumali-minecraft-sunucusu.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/kiralik-ipv4-hizmeti.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\kiralik-ipv4-hizmeti.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/iletisim.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\iletisim.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/hakkimizda.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\hakkimizda.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/ticari-bilgiler.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\ticari-bilgiler.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/ddos-korumasi.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\ddos-korumasi.php.html
+Content Type: text/html
+
+Uri: https://stats.uptimerobot.com/YXgGPi3xm4
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\YXgGPi3xm4.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/iade-politikasi.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\iade-politikasi.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/gizlilik-sozlesmesi.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\gizlilik-sozlesmesi.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/hizmet-sozlesmesi.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\hizmet-sozlesmesi.php.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/giris-yap
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\giris-yap.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/ddos-korumali-gaming-vds.php
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\ddos-korumali-gaming-vds.php.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/nexdc_load.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\nexdc_load.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/nexdc_logo.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\nexdc_logo.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/gaming/gtav.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\gaming\gtav.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/gaming/discord.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\gaming\discord.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/samp.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\samp.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/mta.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\mta.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/gaming/game-valheim.jpg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\gaming\game-valheim.jpg
+Content Type: image/jpeg
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/ts3.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\ts3.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/sinusbot.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\sinusbot.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/rust.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\rust.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/gaming/game-arma.jpg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\gaming\game-arma.jpg
+Content Type: image/jpeg
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/minecraft.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\minecraft.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/chat-mobile.svg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\chat-mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://nexdc.com.tr/assets/img/community.svg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\community.svg
+Content Type: image/svg+xml
+
+Uri: https://nexdc.com.tr/assets/img/partner.svg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\partner.svg
+Content Type: image/svg+xml
+
+Uri: https://nexdc.com.tr/assets/img/network.svg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\network.svg
+Content Type: image/svg+xml
+
+Uri: https://nexdc.com.tr/assets/img/blog.svg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\blog.svg
+Content Type: image/svg+xml
+
+Uri: https://nexdc.com.tr/assets/img/hero-vps-hosting.svg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\hero-vps-hosting.svg
+Content Type: image/svg+xml
+
+Uri: https://nexdc.com.tr/assets/img/hero-cloud-hosting.svg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\hero-cloud-hosting.svg
+Content Type: image/svg+xml
+
+Uri: https://nexdc.com.tr/assets/img/hero-svg-img-2.svg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\hero-svg-img-2.svg
+Content Type: image/svg+xml
+
+Uri: https://nexdc.com.tr/assets/img/gaming-img-2.svg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\gaming-img-2.svg
+Content Type: image/svg+xml
+
+Uri: https://nexdc.com.tr/assets/img/com.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\com.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/online.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\online.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/net.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\net.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/org.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\org.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/store.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\store.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/call-center-support.svg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\call-center-support.svg
+Content Type: image/svg+xml
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/fivem_img.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\fivem_img.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/rust_img.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\rust_img.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/gaming/mc.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\gaming\mc.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/teamspeak_img.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\teamspeak_img.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/muzikbot_img.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\muzikbot_img.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/samp_img.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\samp_img.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/mta_img.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\mta_img.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/ddos-shields.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\ddos-shields.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/btk.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\btk.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/services.svg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\services.svg
+Content Type: image/svg+xml
+
+Uri: https://nexdc.com.tr/assets/img/create-website.svg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\create-website.svg
+Content Type: image/svg+xml
+
+Uri: https://nexdc.com.tr/assets/img/dc.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\dc.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://nexdc.com.tr/assets/js/vendors/jquery-3.5.1.min.js
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\js\vendors\jquery-3.5.1.min.js
+Content Type: application/javascript
+
+Uri: https://nexdc.com.tr/assets/js/vendors/popper.min.js
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\js\vendors\popper.min.js
+Content Type: application/javascript
+
+Uri: https://nexdc.com.tr/assets/js/vendors/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\js\vendors\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://nexdc.com.tr/assets/js/vendors/bootstrap-slider.min.js
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\js\vendors\bootstrap-slider.min.js
+Content Type: application/javascript
+
+Uri: https://nexdc.com.tr/assets/js/vendors/jquery.easing.min.js
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\js\vendors\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://nexdc.com.tr/assets/js/vendors/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\js\vendors\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://nexdc.com.tr/assets/js/vendors/countdown.min.js
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\js\vendors\countdown.min.js
+Content Type: application/javascript
+
+Uri: https://nexdc.com.tr/assets/js/vendors/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\js\vendors\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://nexdc.com.tr/assets/js/vendors/jquery.rcounterup.js
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\js\vendors\jquery.rcounterup.js
+Content Type: application/javascript
+
+Uri: https://nexdc.com.tr/assets/js/vendors/magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\js\vendors\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://nexdc.com.tr/assets/js/vendors/validator.min.js
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\js\vendors\validator.min.js
+Content Type: application/javascript
+
+Uri: https://nexdc.com.tr/assets/js/vendors/hs.megamenu.js
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\js\vendors\hs.megamenu.js
+Content Type: application/javascript
+
+Uri: https://nexdc.com.tr/assets/js/app.js
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\beacon.min.js
+Content Type: text/javascript
+
+Uri: https://nexdc.com.tr/assets/img/about-bg-shape.svg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\about-bg-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-regular-400d41d.eot?
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-regular-400d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-regular-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-solid-900d41d.eot?
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-solid-900d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-solid-900.ttf
+Content Type: application/font-sfnt
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-brands-400d41d.eot?
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-brands-400d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-brands-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://nexdc.com.tr/assets/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-brands-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-duotone-900.woff
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-duotone-900.woff
+Content Type: application/font-woff
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-duotone-900.html
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-duotone-900.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-light-300.woff
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-light-300.woff
+Content Type: application/font-woff
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-light-300.html
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-light-300.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-regular-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-solid-900.ttf
+Content Type: application/font-sfnt
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-thin-100.woff2
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-thin-100.woff
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-thin-100.woff
+Content Type: application/font-woff
+
+Uri: https://nexdc.com.tr/assets/fonts/fa-thin-100.html
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\fa-thin-100.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/assets/fonts/themify.eot
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nexdc.com.tr/assets/fonts/themifyd41d.eot?
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\themifyd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nexdc.com.tr/assets/fonts/themify.woff
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\themify.woff
+Content Type: application/font-woff
+
+Uri: https://nexdc.com.tr/assets/fonts/themify.ttf
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\themify.ttf
+Content Type: application/font-sfnt
+
+Uri: https://nexdc.com.tr/assets/fonts/themify.html
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\fonts\themify.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/assets/css/owl.video.play.html
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\css\owl.video.play.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/assets/img/offer-bg.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\offer-bg.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,600,700
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,500,700
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\css-2.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&amp;display=swap
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\css2.css
+Content Type: text/css
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/sunucu.gif
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\sunucu.gif
+Content Type: image/gif
+
+Uri: https://my.nexdc.com.tr/siparis/server/276
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\276.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/277
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\277.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/278
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\278.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/279
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\279.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/280
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\280.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/281
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\281.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/282
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\282.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/283
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\283.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/314
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\314.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/315
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\315.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/316
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\316.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/317
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\317.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/318
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\318.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/319
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\319.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/320
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\320.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/321
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\321.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/special/264
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\264.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/special/295
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\295.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/fiziksel_sunucu.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\fiziksel_sunucu.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/vf.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\vf.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/sunucu-barindirma.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\sunucu-barindirma.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/barindirma-vodafone.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\barindirma-vodafone.png
+Content Type: image/png
+
+Uri: https://my.nexdc.com.tr/siparis/server/248
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\248.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/247
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\247.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/249
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\249.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/250
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\250.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/251
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\251.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/252
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\252.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/253
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\253.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/254
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\254.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/255
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\255.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/225
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\225.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/226
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\226.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/227
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\227.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/228
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\228.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/229
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\229.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/230
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\230.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/244
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\244.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/245
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\245.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/246
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\246.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/306
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\306.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/307
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\307.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/308
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\308.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/309
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\309.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/310
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\310.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/server/311
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\server\311.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/assets/img/gtavbanner.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\gtavbanner.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/gtav1.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\gtav1.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/gtav2.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\gtav2.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/assets/img/gtav3.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\gtav3.png
+Content Type: image/png
+
+Uri: https://my.nexdc.com.tr/siparis/special/155
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\155.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/special/212
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\212.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/special/213
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\213.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/special/243
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\243.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/special/242
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\242.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/special/121
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\121.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/special/215
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\215.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/special/117
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\117.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/special/217
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\217.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/special/218
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\218.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/assets/img/nexdc/teamspeak_images.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\assets\img\nexdc\teamspeak_images.png
+Content Type: image/png
+
+Uri: https://my.nexdc.com.tr/siparis/special/102
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\102.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/special/119
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\119.html
+Content Type: text/html
+
+Uri: https://i.hizliresim.com/BqVrF4.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\BqVrF4.png
+Content Type: image/png
+
+Uri: https://my.nexdc.com.tr/siparis/special/219
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\219.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/special/220
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\220.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/special/221
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\221.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/special/222
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\222.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/special/223
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\223.html
+Content Type: text/html
+
+Uri: https://my.nexdc.com.tr/siparis/special/224
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\siparis\special\224.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\hc\en-us\articles\200170016-What-is-Email-Address-Obfuscation-.html
+Content Type: text/html
+
+Uri: https://support.cloudflare.com/hc/en-us/categories/200275218-Getting-Started
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\hc\en-us\categories\200275218-Getting-Started.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/FVXP5Uft5V
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\invite\FVXP5Uft5V.html
+Content Type: text/html
+
+Uri: https://nexdc.com.tr/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://nexdc.com.tr/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://www.cloudflare.com/5xx-error-landing/
+File Name: C:\Downloaded Web Sites\nexdc.com.tr\5xx-error-landing\index.htm
+Content Type: text/html
+
